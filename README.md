@@ -1,5 +1,5 @@
 # Hi there 👋
-<p>My name is Francisco Ayala and I'm a full-stack developer</p>
+<p>My name is Francisco Ayala, I'm a full-stack developer and i want to show you my experience</p>
 
 <p></p>
 </div>
@@ -8,7 +8,7 @@
 ## Languages or Frameworks
 
 <div align="left">
-<img alt="Java" src="https://img.shields.io/badge/java%20-%2320232a.svg?&style=for-the-badge&logo=java&logoColor=%2361DAFB"/> 
+<img alt="Java" src="https://img.shields.io/badge/java%20-%2320232a.svg?&style=for-the-badge&logo=java&logoColor=%2361DAFB"/>
 <img alt="Kotlin" src="https://img.shields.io/badge/kotlin%20-%2320232a.svg?&style=for-the-badge&logo=kotlin&logoColor=%2361DAFB"/>  
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
