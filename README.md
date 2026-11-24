@@ -1,5 +1,5 @@
 # Hi there 👋
-<p>My name is Francisco Ayala, I'm a full-stack developer and i want to show you my experience</p>
+<p>My name is Francisco Ayala, I'm a full-stack developer and i want to show you my work and experience</p>
 
 <p></p>
 </div>
